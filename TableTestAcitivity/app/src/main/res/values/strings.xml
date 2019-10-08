@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">HelloWorld,TableTestAcitivity!</string>
+    <string name="app_name">學習</string>
+    <string name="tabs_1_tab_1">主頁</string>
+    <string name="tabs_1_tab_2">標題</string>
+    <string name="tabs_1_tab_3">關於</string>
+    <string name="tabs_1_tab_4">返回</string>
+    <string name="action_settings">返回</string>
+</resources>
