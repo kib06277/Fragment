@@ -1,5 +1,3 @@
 # Fragment
-
-fragment_demo 基本範例
-
-Tab_menu_Demo 基本範例 + Bottom 選單
+<li>fragment_demo　－　基本範例</li>
+<li>Tab_menu_Demo　－　FragmentActivity + Fragment + FragmentTabHost</li>
