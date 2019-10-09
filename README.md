@@ -11,3 +11,5 @@
 <li>參考網址：https://tomoya92.github.io/2017/04/05/android-viewpager-fragment-tablayout/</li><br>
 <li>FragmentBottomNavigationView　－　Fragment + BottomNavigation</li>
 <li>參考網址：https://github.com/waynechen323/FragmentBasicUsage/blob/master/app/src/main/java/com/waynechen/fragmentbasicusage/MainActivity.java</li>
+<li>FragmentBottomNavigationView　－　BottomNavigationView + ViewPager + Fragment</li>
+<li>參考網址：https://tomoya92.github.io/2017/04/05/android-bottomnavigationview-viewpager-fragment/</li>
